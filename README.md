@@ -1,10 +1,10 @@
 DevOps marks a major shift in how software is developed and delivered. Instead of teams working separately, it unites developers, operations, and testers under one collaborative culture. The focus is on automation, continuous improvement, and quick feedback. This helps companies deliver updates faster, with better quality and fewer errors. Unlike traditional methods like the Waterfall model, which are slow and rigid, DevOps encourages frequent, smaller releases that reduce risks and allow faster responses to customer needs.
 
-Automation and Core Steps in DevOps
+**Automation and Core Steps in DevOps**
 
 One of the biggest changes DevOps brings is the use of automation through Continuous Integration and Continuous Delivery (CI/CD). The DevOps lifecycle is often described in steps: plan, code, build, test, release, deploy, operate, and monitor. Planning ensures teams align on goals, coding focuses on collaboration, building compiles and packages the application, and testing checks quality automatically. The release and deploy steps deliver software to production quickly, while operate and monitor provide feedback to improve future work. Companies like Etsy adopted these practices, moving from rare and risky launches to more than 50 deployments per day. This ability to deliver in small steps makes teams more agile and reduces human errors.
 
-DevOps Beyond Software
+**DevOps Beyond Software**
 
 Beyond software, DevOps principles also apply to other industries. For example, Daimler used DevOps thinking with AI and sensor data to predict truck maintenance needs. This let them prevent breakdowns, cut downtime, and improve customer satisfaction. By following the same steps such as plan, build, test, deploy, and monitor, they showed that DevOps is not just about software but a mindset for solving complex problems. Whether in IT systems or physical products, continuous improvement and automation create real business value.
 
